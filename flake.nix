@@ -60,7 +60,7 @@
             "clickup"
             "google-chrome"
             "google-drive"
-"notesnook"
+						"notesnook"
             "obsidian"
             "raycast"
             "slack"
