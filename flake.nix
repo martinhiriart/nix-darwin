@@ -64,6 +64,7 @@
             "obsidian"
             "raycast"
             "slack"
+            "zoom"
 
             # dev
             "ghostty"
@@ -87,6 +88,9 @@
             "font-caskaydia-cove-nerd-font"
             "font-jetbrains-mono-nerd-font"
             "font-geist-mono-nerd-font"
+          ];
+          taps = [
+            "nikitabobko/homebrew-aerospace"
           ];
           masApps = {
             # "Tailscale" = 1475387142;
