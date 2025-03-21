@@ -97,7 +97,7 @@
             "nikitabobko/homebrew-aerospace"
           ];
           masApps = {
-            # "Tailscale" = 1475387142;
+	    "Tailscale" = 1475387142;
           };
           onActivation.cleanup = "zap";
           onActivation.autoUpdate = true;
