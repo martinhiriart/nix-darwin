@@ -35,36 +35,39 @@
             "go"
             "vhs"
             "ffmpeg"
-            "nvim"
+            # "nvim"
             "ttyd"
-            "luarocks"
+            # "luarocks"
 
             # tools
+	    "borders"
             "chezmoi"
             "fzf"
             "lazygit"
-            "ollama"
+	    "mas"
+            # "ollama"
+	    "ripgrep"
             "starship"
             "tmux"
+	    "wget"
+	    "yt-dlp"
 
             # learning
             "exercism"
-            "mas"
-            "lazygit"
-            "ripgrep"
-            "wget"
+            
           ];
           casks = [
             # productivity
             "1password"
-            "clickup"
-            "google-chrome"
-            "google-drive"
-						"notesnook"
+            # "clickup"
+            # "google-chrome"
+            # "google-drive"
+	    # "notesnook"
+	    "orion"
             "obsidian"
             "raycast"
-            "slack"
-            "zoom"
+            # "slack"
+            # "zoom"
 
             # dev
             "ghostty"
@@ -90,6 +93,7 @@
             "font-geist-mono-nerd-font"
           ];
           taps = [
+	    "FelixKratz/homebrew-formulae"
             "nikitabobko/homebrew-aerospace"
           ];
           masApps = {
